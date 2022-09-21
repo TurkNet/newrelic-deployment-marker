@@ -44,7 +44,7 @@
     ],
     "repository": {
         "type": "git",
-        "uri": "https://github.com/nomansadiq11/newrelic-deployment-marker.git"
+        "uri": "https://github.com/TurkNet/newrelic-deployment-marker.git"
     }
 
 }
